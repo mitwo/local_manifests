@@ -14,6 +14,7 @@
 <remove-project name="android_bootable_recovery" />
 <remove-project name="android_vendor_du" />
 <remove-project name="android_external_sepolicy" />
+<remove-project name="android_vendor_samsung" />
 
 <!-- DEVICE -->
 <project name="kularny/android_device_samsung_i9100" path="device/samsung/i9100" remote="github" revision="lollipop" />
